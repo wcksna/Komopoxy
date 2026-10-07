@@ -1,0 +1,6 @@
+{
+  "name": "KOMOPOXY - Portal Informasi Pelanggan & Katalog Kimia Konstruksi",
+  "description": "Website resmi informasi customer dan katalog kimia konstruksi KOMOPOXY PT. KCCI CHEMTECH INDONESIA dengan sistem manajemen admin real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
